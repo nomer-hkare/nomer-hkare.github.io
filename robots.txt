@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://nomer-hkare.github.io/sitemap.xml
